@@ -17,7 +17,7 @@ Neste projeto, replicaremos o jogo Pedra, Papel e Tesoura (Jo-ken-Po), utilizand
 <h3>Materiais Complementares</h3>
 <ul>
 	<li>
-	<a href="https://docs.google.com/presentation/d/1nfGcjoNjI86uEpVGniFAyj2FqxC7cTIe/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides do Curso</a>
+	<a href="https://docs.google.com/presentation/d/1nfGcjoNjI86uEpVGniFAyj2FqxC7cTIe/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides</a>
 	</li>
 </ul>
 
